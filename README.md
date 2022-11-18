@@ -74,7 +74,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 $ git clone https://github.com/lukemorales/gobarber-web
 
 # Go into the repository
-$ cd gobarber-web
+$ cd Agendamento-Psicologia-main
 
 # Install dependencies
 $ yarn install
