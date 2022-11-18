@@ -16,12 +16,9 @@ Gobarber-Web, Sistema de agendamento, com integração com Front-End e Back-End,
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
-                            # Login Area, With User Authentication with SAGA
-![App Screenshot](https://user-images.githubusercontent.com/101852187/202603352-bca79495-1436-4ada-9c94-06c28975d16e.png)
 
-![App Screenshot](https://res.cloudinary.com/lukemorales/image/upload/v1564536567/readme_logos/schedules_tgpmie.jpg)
-![App Screenshot](https://res.cloudinary.com/lukemorales/image/upload/v1564536567/readme_logos/profile_nl7oco.jpg)
-![App Screenshot](https://res.cloudinary.com/lukemorales/image/upload/v1564536567/readme_logos/signup_xwdwqm.jpg)
+![Login-authentication](https://user-images.githubusercontent.com/101852187/202603352-bca79495-1436-4ada-9c94-06c28975d16e.png)
+
 
 ## :rocket: Technologies
 
