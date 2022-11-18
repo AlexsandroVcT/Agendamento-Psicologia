@@ -17,7 +17,7 @@ Gobarber-Web, Sistema de agendamento, com integração com Front-End e Back-End,
   <a href="#memo-license">License</a>
 </p>
                             # Login Area, With User Authentication with SAGA
-![Login-authentication](https://user-images.githubusercontent.com/101852187/202603352-bca79495-1436-4ada-9c94-06c28975d16e.png)
+![App Screenshot](https://user-images.githubusercontent.com/101852187/202603352-bca79495-1436-4ada-9c94-06c28975d16e.png)
 
 ![App Screenshot](https://res.cloudinary.com/lukemorales/image/upload/v1564536567/readme_logos/schedules_tgpmie.jpg)
 ![App Screenshot](https://res.cloudinary.com/lukemorales/image/upload/v1564536567/readme_logos/profile_nl7oco.jpg)
