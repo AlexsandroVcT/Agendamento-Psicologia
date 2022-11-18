@@ -71,7 +71,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/lukemorales/gobarber-web
+$ git clone https://github.com/AlexsandroVcT/Agendamento-Psicologia
 
 # Go into the repository
 $ cd Agendamento-Psicologia-main
