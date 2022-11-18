@@ -23,6 +23,10 @@ Gobarber-Web, Sistema de agendamento, com integração com Front-End e Back-End,
                     # Registration area, with name, email and password validation developed with SAGA
 ![register-authentication](https://user-images.githubusercontent.com/101852187/202605512-27184733-936b-48e4-8d11-06c316c175e2.png)
 
+                            # user logged in with appointments marked
+![Agendamento](https://user-images.githubusercontent.com/101852187/202606291-7cc4eeda-389d-4106-b7f6-57dd636ebe78.png)
+
+
 
 
 
