@@ -78,7 +78,7 @@ $ yarn start
 ```
 
 ## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/AlexsandroVcT/-User-Scheduling-System) for more information.
+This project is under the MIT license. See the [LICENSE](https://docs.github.com/pt/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#disclaimer) for more information.
 
 ---
 
