@@ -17,10 +17,10 @@ Gobarber-Web, Sistema de agendamento, com integração com Front-End e Back-End,
   <a href="#memo-license">License</a>
 </p>
 
-                                # Login area, with email and password validation developed with SAGA
+                               # Login area, with email and password validation developed with SAGA
 ![Login-authentication](https://user-images.githubusercontent.com/101852187/202605306-46436fde-2107-4035-9fbb-6fd2ad459e39.png)
 
-                          # Registration area, with name, email and password validation developed with SAGA
+                    # Registration area, with name, email and password validation developed with SAGA
 ![register-authentication](https://user-images.githubusercontent.com/101852187/202605512-27184733-936b-48e4-8d11-06c316c175e2.png)
 
 
