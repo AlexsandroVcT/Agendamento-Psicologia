@@ -82,7 +82,7 @@ This project is under the MIT license. See the [LICENSE](https://github.com/luke
 
 ---
 
-Made with ♥ by Luke Morales :wave: [Get in touch!](https://www.linkedin.com/in/lukemorales/)
+Backend Repository: https://github.com/AlexsandroVcT/-User-Scheduling-System
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
