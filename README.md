@@ -2,7 +2,7 @@
 Gobarber-Web, Sistema de agendamento, com integração com Front-End e Back-End, Utilizando REACTJS no Frontend, e NodeJS no Backend
 
 <h1 align="center">
-    <img alt="GoBarber Web" src="https://res.cloudinary.com/lukemorales/image/upload/v1564533051/readme_logos/gobarber_hg5ddx.png" />
+    <img alt="GoBarber Web" src="https://www.espro.org.br/wp-content/uploads/2020/08/dia_psicogolo.png" />
     <br>
     GoBarber Web
 </h1>
