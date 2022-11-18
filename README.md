@@ -17,7 +17,8 @@ Gobarber-Web, Sistema de agendamento, com integração com Front-End e Back-End,
   <a href="#memo-license">License</a>
 </p>
 
-![Login-authentication](https://user-images.githubusercontent.com/101852187/202603352-bca79495-1436-4ada-9c94-06c28975d16e.png)
+![Login-authentication](https://user-images.githubusercontent.com/101852187/202605085-7c160ab0-7b90-4fe8-bc46-60298b47b393.png)
+
 
 
 ## :rocket: Technologies
