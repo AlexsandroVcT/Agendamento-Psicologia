@@ -78,11 +78,9 @@ $ yarn start
 ```
 
 ## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/lukemorales/gobarber-api/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/AlexsandroVcT/-User-Scheduling-System) for more information.
 
 ---
-
-Backend Repository: https://github.com/AlexsandroVcT/-User-Scheduling-System
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
