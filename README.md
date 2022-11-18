@@ -81,6 +81,8 @@ $ yarn start
 This project is under the MIT license. See the [LICENSE](https://docs.github.com/pt/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#disclaimer) for more information.
 
 ---
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_alex.vct/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsandro-vicente-b74b60234/)
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
